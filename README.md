@@ -16,6 +16,12 @@ Topics:
   - extension methods in scala 2
   - implicits in scala 2
   - package objects (e.g. in testing)
+  - multi-word identifiers (e.g. in tests, constants)
+  - single-argument functione e.g. Try{...}
+  - immutable vs mutable containers
+  - update() syntax sugar
+  - apply method
+  - variable arguments + expanding a collection in place of varargs
   - logging
   - scala-testing
 
